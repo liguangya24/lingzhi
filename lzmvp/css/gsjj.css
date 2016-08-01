@@ -1,0 +1,149 @@
+.top{
+	height: 1130px;
+	width: 1349px;
+	background-image: url(../images/ico34.png);
+	background-color: #09070e;
+	background-repeat: no-repeat;
+	background-position: -126px -7px;
+	position: relative;
+}
+.tp1{
+	height: 34px;
+	max-width: 1349px;
+	border:1px #434343 solid;
+	background-color: #262626;
+	line-height: 34px;
+	color: #b5b5b5;
+	position: relative;
+}
+.logo{
+	margin-left: 117px;
+}
+.tp1 ul{
+	float: right;
+}
+.tp1 li{
+	float: left;
+	width: 96px;
+	height: 34px;
+	line-height: 34px;
+}
+.tp1 a{
+	color: #b5b5b5;
+	font-size: 12px;
+}
+.tp1 i{
+	float: right;
+	height: 14px;
+	width: 13px;
+	margin-right: 117px;
+	background-image: url(../images/001.png);
+	margin-top: 9px;
+}
+.i1{
+	float: right;
+	height: 14px;
+	width: 13px;
+	margin-right: 117px;
+	background-image: url(../images/001.png);
+	margin-top: 9px;
+}
+.tp2{
+	height: 1010px;
+	width: 1140px;
+	position: relative;
+	margin-top: 40px;
+	margin-left: 117px;
+	background-color: #f5f5f5;
+}
+.bt{
+	height: 28px;
+	width: 108px;
+	color: white;
+	background-color: #cb00da;
+	position: absolute;
+	left: 30px;
+	top: 30px;
+}
+.bt span{
+	margin-left: 10px;
+	line-height: 28px;
+}
+.tt{
+	height: 870px;
+	width: 1080px;
+	position: absolute;
+	left: 30px;
+	bottom: 80px;
+	background-color: white;
+	z-index: 1;
+}
+.
+.op{
+	height:80px;
+	width: 1140px;
+	position: absolute;
+	bottom: 220px;
+}
+.cj1{
+	height: 280px;
+	width: 1020px;
+	position: absolute;
+	top: 30px;
+	left: 30px;
+}
+.cj2{
+	width: 326px;
+	height: 234px;
+	position: absolute;
+	right: 30px;
+	top: 340px;
+}
+.cj3{
+	width: 494px;
+	height: 232px;
+	position: absolute;
+	bottom:30px;
+	left:30px; 
+}
+.cj4{
+	width: 494px;
+	height: 232px;
+	position: absolute;
+	right: 30px;
+	bottom: 30px;
+}
+.abc {
+	width: 662px;
+	height: 234px;
+	position: absolute;
+	left: 30px;
+	bottom: 290px;
+}
+.abc p{
+	font-size: 12px;
+	text-indent: 2em;
+	margin-top: 5px;
+}
+
+
+
+
+
+
+.down{
+	height: 78px;
+	background-color: #f4f4f4;
+	line-height: 78px;
+	font-size: 12px;
+}
+.down ul{
+	margin-left: 117px;
+}
+.down li{
+	float: left;
+	margin-right: 40px;
+}
+.down li a{
+	color: #666666;
+}

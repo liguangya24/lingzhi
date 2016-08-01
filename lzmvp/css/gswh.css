@@ -1,0 +1,123 @@
+.top{
+	height: 1120px;
+	width: 1349px;
+	background-image: url(../images/bg3.png);
+	background-repeat: no-repeat;
+	background-position: -116px -7px;
+	background-color: #09070e;
+	position: relative;
+}
+.tp1{
+	height: 34px;
+	max-width: 1349px;
+	border:1px #434343 solid;
+	background-color: #262626;
+	line-height: 34px;
+	color: #b5b5b5;
+	position: relative;
+}
+.logo{
+	margin-left: 117px;
+}
+.tp1 ul{
+	float: right;
+}
+.tp1 li{
+	float: left;
+	width: 96px;
+	height: 34px;
+	line-height: 34px;
+}
+.tp1 a{
+	color: #b5b5b5;
+	font-size: 12px;
+}
+.gswh{
+	height: 40px;
+	width: 1140px;
+	border-bottom: 1px #1f1a2e solid;
+	margin-top: 35px;
+	margin-left: 117px;
+}
+.gswh span{
+	color: white;
+	font-size: 14px;
+}
+.tp2{
+	height: 890px;
+	width: 1140px;
+	background-color: white;
+	position: relative;
+	margin-top: 30px;
+	margin-left: 117px;
+}
+.wh1{
+	height: 388px;
+	width: 100px;
+	position: absolute;
+	left: 20px;
+	top: 20px;
+}
+.wh2{
+	width: 100px;
+	height: 396px;
+	position: absolute;
+	left: 20px;
+	top: 408px;
+}
+.tp2 p{
+	display: block;
+	width: 1070px;
+}
+.p1{
+	position: absolute;
+	z-index: 1;
+	font-size: 14px;
+	top: 40px;
+	left: 48px;
+}
+.p2{
+	font-size: 14px;
+	position: absolute;
+	z-index: 1;
+	top: 170px;
+	left: 48px;
+}
+.p3{
+	font-size: 14px;
+	position: absolute;
+	z-index: 1;
+	left: 48px;
+	top: 280px;
+}
+.p4{
+	width: 1080px;
+	height: 370px;
+	position: absolute;
+	bottom: 50px;
+	left: 48px;
+	z-index: 1;
+	color: #3b3b3b;
+}
+.p4 span{
+	font-size: 14px;
+}
+h4{
+	margin-top: 10px;
+}
+.down{
+	height: 78px;
+	background-color: #f4f4f4;
+	line-height: 78px;
+	font-size: 12px;
+}
+.down ul{
+	margin-left: 117px;
+}
+.down li{
+	float: left;
+	margin-right: 40px;
+}
+.down li a{
+	color: #666666;
+}

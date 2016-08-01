@@ -1,0 +1,164 @@
+.top{
+	height: 860px;
+	width: 1349px;
+	background-image: url(../images/bg3.png);
+	background-repeat: no-repeat;
+	background-position: -116px -7px;
+	background-color: #09070e;
+	position: relative;
+}
+.tp1{
+	height: 34px;
+	max-width: 1349px;
+	border:1px #434343 solid;
+	background-color: #262626;
+	line-height: 34px;
+	color: #b5b5b5;
+	position: relative;
+}
+.logo{
+	margin-left: 117px;
+}
+.tp1 ul{
+	float: right;
+}
+.tp1 li{
+	float: left;
+	width: 96px;
+	height: 34px;
+	line-height: 34px;
+}
+.tp1 a{
+	color: #b5b5b5;
+	font-size: 12px;
+}
+.tp1 i{
+	float: right;
+	height: 14px;
+	width: 13px;
+	margin-right: 117px;
+	background-image: url(../images/001.png);
+	margin-top: 9px;
+}
+.cp{
+	height: 40px;
+	width: 1140px;
+	border-bottom: 1px #1f1a2e solid;
+	margin-top: 35px;
+	margin-left: 117px;
+}
+.cp span{
+	color: white;
+	font-size: 14px;
+	position: relative;
+}
+.tp2{
+	width: 1154px;
+	height: 484px;
+	margin-top: 10px;
+	margin-left: 117px;
+}
+.tp2 li{
+	float: left;
+	height: 114px;
+	width: 562px;
+	background-color: white;
+	margin-top: 15px;
+	margin-right: 15px;
+}
+.tp2 li img{
+	float: left;
+	height: 84px;
+	width: 138px;
+	margin-left: 15px;
+	margin-top: 15px;
+}
+.tp2 li span{
+	float: right;
+	width: 380px;
+	height: 84px;
+	margin-top: 15px;
+	margin-right: 15px;
+}
+.tp2 p{
+	color: #898989;
+}
+.p2,.p3{
+	font-size: 12px;
+}
+.p3{
+	text-align: right;
+
+}
+.btn{
+	float: right;
+	margin-right: 15px;
+	margin-top: 30px;
+}
+.btn span{
+	float: left;
+	margin-left: 5px;
+}
+.a1 span{
+	height: 24px;
+	width: 24px;
+	font-size: 12px;
+	line-height: 24px;
+	text-align: center;
+	background-color: white;
+	
+}
+.a2 span{
+	width: 54px;
+	height: 24px;
+	font-size: 12px;
+	line-height: 24px;
+	text-align: center;
+	background-color: white;
+}
+.a3 span{
+	height: 24px;
+	width: 24px;
+	font-size: 12px;
+	line-height: 24px;
+	text-align: center;
+	background-color: #7b2783;
+	color: white;
+}
+.a4{
+	width: 30px;
+	height: 24px;
+	color: white;
+	font-size: 12px;
+	line-height: 24px;
+	text-align: center;
+}
+.a5{
+	width: 24px;
+	height: 24px;
+	color: white;
+	font-size: 12px;
+	line-height: 24px;
+	text-align: center;
+}
+.txt{
+	width: 30px;
+	height: 24px;
+	background-color: white;
+}
+.down{
+	height: 78px;
+	background-color: #f4f4f4;
+	line-height: 78px;
+	font-size: 12px;
+}
+.down ul{
+	margin-left: 117px;
+}
+.down li{
+	float: left;
+	margin-right: 40px;
+}
+.down li a{
+	color: #666666;
+}
